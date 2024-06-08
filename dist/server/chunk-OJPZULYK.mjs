@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as r,b as i,c as n,d as p,e as m,j as s,m as a,o as f,p as c,s as d,y as l}from"./chunk-ERQC4QT7.mjs";var u=(()=>{let t=class t{constructor(){this.title="hotelinventoryapp"}};t.\u0275fac=function(e){return new(e||t)},t.\u0275cmp=r({type:t,selectors:[["app-root"]],standalone:!0,features:[m],decls:2,vars:0,template:function(e,A){e&1&&(i(0,"h1"),p(1,"test"),n())}});let o=t;return o})();var v=[];var g={providers:[s({eventCoalescing:!0}),l(v),c()]};var h={providers:[d()]},C=a(g,h);var y=()=>f(u,C),z=y;export{z as a};
